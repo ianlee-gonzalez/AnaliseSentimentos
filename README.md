@@ -1,4 +1,4 @@
-Análise de Sentimentos em Tweets
+#Análise de Sentimentos em Tweets
 
 Este projeto realiza uma análise de sentimentos em tweets categorizados em positivo, negativo, e neutro. Inclui etapas de limpeza de texto, visualização de dados, e, futuramente, um modelo preditivo de aprendizado de máquina.
 
