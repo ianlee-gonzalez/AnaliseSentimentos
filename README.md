@@ -35,15 +35,6 @@ O objetivo deste projeto é analisar tweets coletados para identificar padrões 
 
 ---
 
-## **📊 Exemplos de Visualizações**
-
-### **1. Distribuição de Sentimentos**
-![Distribuição de Sentimentos](https://via.placeholder.com/600x300.png?text=Distribui%C3%A7%C3%A3o+de+Sentimentos)
-
-### **2. Nuvem de Palavras - Sentimento Positivo**
-![Nuvem de Palavras](https://via.placeholder.com/600x300.png?text=Nuvem+de+Palavras+Positivas)
-
----
 
 ## **📈 Futuras Implementações**
 
