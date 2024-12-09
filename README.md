@@ -1,12 +1,15 @@
 Análise de Sentimentos em Tweets
 
 Este projeto realiza uma análise de sentimentos em tweets categorizados em positivo, negativo, e neutro. Inclui etapas de limpeza de texto, visualização de dados, e, futuramente, um modelo preditivo de aprendizado de máquina.
+
 🎯 Objetivo
 O objetivo deste projeto é analisar tweets coletados para identificar padrões de sentimentos, bem como explorar características textuais como o tamanho dos tweets e as palavras mais frequentes por categoria.
+
 📂 Estrutura do Projeto
 codigo.py: Script principal com todas as análises e visualizações.
 tweets_processados.csv: Arquivo gerado com os tweets limpos após o processamento.
 twitter_training.csv: Dataset original contendo os tweets e rótulos de sentimentos.
+
 🚀 Funcionalidades Implementadas
 Limpeza de Dados:
 
